@@ -1,4 +1,4 @@
-# yuruyus_asistani
+
 # 🚶‍♂️ Yürüyüş Asistanım (v1.1)
 
 Python ile geliştirilmiş, internet bağlantısı gerektirmeden Android cihazlarda yerel hafıza ile çalışan kişisel yürüyüş, mesafe ve kalori takip uygulaması.
