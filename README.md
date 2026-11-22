@@ -1,4 +1,3 @@
-<img src="(https://github.com/user-attachments/assets/1f52d6c6-54d4-4e1e-bc65-3099e9f1261a)" width="280">
 # 🚶‍♂️ Yürüyüş Asistanım (v1.1)
 
 Python ile geliştirilmiş, internet bağlantısı gerektirmeden Android cihazlarda yerel hafıza ile çalışan kişisel yürüyüş, mesafe ve kalori takip uygulaması.
