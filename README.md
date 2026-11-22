@@ -12,6 +12,3 @@ Python ile geliştirilmiş, internet bağlantısı gerektirmeden Android cihazla
 ### 📥 Kurulum
 Sağ taraftaki **Sürümler (Releases)** bölümünden `app-release.apk` dosyasını indirip Android cihazınıza kurabilirsiniz.
 
-![Python](https://shields.io)
-![Flet](https://shields.io)
-![Platform](https://shields.io)
