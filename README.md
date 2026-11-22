@@ -11,4 +11,4 @@ Python ile geliştirilmiş, internet bağlantısı gerektirmeden Android cihazla
 ### 📥 Kurulum
 Sağ taraftaki **Sürümler (Releases)** bölümünden `app-release.apk` dosyasını indirip Android cihazınıza kurabilirsiniz.
 
-<img src="Yürüyüş Asistanım.png" width="280">
+<img src="ekran.png" width="280">
